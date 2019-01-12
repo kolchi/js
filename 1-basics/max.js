@@ -6,7 +6,11 @@
  * @return {Number} The max of x and y
  */
 function max(x, y) {
-  // your code here
+  if (x > y){
+     return x
+  }
+  else {
+    return y
+  }
 }
-
 module.exports = max

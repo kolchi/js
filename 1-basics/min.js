@@ -6,7 +6,12 @@
  * @return {Number} The min of x and y
  */
 function min(x, y) {
-  // your code here
+  if (x < y){
+    return x
+  }
+  else{
+    return y
+  }
 }
 
 module.exports = min

@@ -6,7 +6,7 @@
  * @return {Number} The value of x - y
  */
 function minus(x, y) {
-  // your code here
+  return x - y
 }
 
 module.exports = minus
