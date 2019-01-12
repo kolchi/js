@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "learning js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolchi/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolchi/js/issues"
+  },
+  "homepage": "https://github.com/kolchi/js#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
