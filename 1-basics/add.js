@@ -6,7 +6,7 @@
  * @return {Number} The sum of x and y
  */
 function add(x, y) {
-  // your code here ...
+  return x + y 
 }
 
 module.exports = add
